@@ -37,6 +37,7 @@
 *.iml
 *.ipr
 *.xml
+*.class
 
 # CMake
 cmake-build-*/
